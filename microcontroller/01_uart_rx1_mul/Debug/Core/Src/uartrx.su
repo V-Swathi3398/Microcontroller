@@ -1,0 +1,4 @@
+../Core/Src/uartrx.c:10:6:USART2_init	4	static
+../Core/Src/uartrx.c:33:7:USART2_read	4	static
+../Core/Src/uartrx.c:39:7:LED_blink	16	static
+../Core/Src/uartrx.c:51:7:delayMs	24	static

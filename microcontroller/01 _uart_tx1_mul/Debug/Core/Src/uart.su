@@ -1,0 +1,4 @@
+../Core/Src/uart.c:3:6:uart2_init	8	static
+../Core/Src/uart.c:37:13:uart_set_baudrate	24	static
+../Core/Src/uart.c:42:17:compute_uart_bd	16	static
+../Core/Src/uart.c:52:6:uart2_write	16	static

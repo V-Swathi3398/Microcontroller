@@ -1,0 +1,2 @@
+../Inc/led.c:10:6:led_init	4	static
+../Inc/led.c:21:6:led_tog	16	static
